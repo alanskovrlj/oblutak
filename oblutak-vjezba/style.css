@@ -19,7 +19,7 @@ body{
   height: 55vh;
   width: 70vw;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position-y: -75px;
 }
 
